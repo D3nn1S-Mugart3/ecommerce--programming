@@ -9524,8 +9524,9 @@ button.bg-dark:focus {
   color: #fff !important;
 }
 
+/** VERDE */
 .text-primary {
-  color: #FF6600 !important;
+  color: #1fbf13 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
