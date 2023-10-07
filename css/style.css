@@ -2371,8 +2371,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #FF6600;
-  border-color: #FF6600;
+  background-color: #098407;
+  border-color: #2f880e;
 }
 
 .btn-primary:hover {
@@ -9771,9 +9771,10 @@ h6,
   outline: none;
 }
 
+/** Aquiiiiiiiiiiiiiiiiiiiiii */
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #FF6600;
+  color: #1fbf13;
 }
 
 @media (max-width: 991.98px) {
