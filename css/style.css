@@ -151,8 +151,10 @@ sup {
   top: -.5em;
 }
 
+
+/** Abajoo */
 a {
-  color: #FF6600;
+  color: #1fbf13;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6353,9 +6355,9 @@ a.close.disabled {
 .align-text-top {
   vertical-align: text-top !important;
 }
-
+/** Cuadro color */
 .bg-primary {
-  background-color: #FF6600 !important;
+  background-color: #1fbf13 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
